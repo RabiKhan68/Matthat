@@ -404,6 +404,40 @@ button:hover {
     background: #0843B5;
 }
 
+.resume {
+    padding: 60px 20px;
+    text-align: center;
+    background: #F5F7FA;
+    color: #2C3E50;
+}
+
+.resume h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #0F62FE;
+}
+
+.resume p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.resume a {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #0F62FE;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.resume a:hover {
+    background: #0843B5;
+    color: #F5F7FA;
+}
+
 /* =======================
    FOOTER
 ======================= */
